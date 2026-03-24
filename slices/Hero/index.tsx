@@ -16,8 +16,6 @@ import React from "react";
 import Autoplay from "embla-carousel-autoplay";
 import Image from "next/image";
 import Navbar from "@/components/Navbar";
-import Scene from "./Scene";
-import { Canvas } from "@react-three/fiber";
 
 /**
  * Props for `Hero`.
